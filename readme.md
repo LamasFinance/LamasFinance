@@ -56,7 +56,6 @@ For more detail about the project, please refer to our documents:
 - Guide: https://docs.lamas.co/
 
 ## Demo & pitch deck
-- Demo video: https://www.youtube.com/watch?v=IRot7lJd6z0
 - Pitch deck: https://www.lamas.co/pdf/Pitch%20deck%204.0.pdf
 
 ## Our website:
